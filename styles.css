@@ -395,6 +395,64 @@ hr {
   opacity: 0.7;
 }
 
+
+
+/*GALLERY PAGE*/
+
+#f1 {
+  position:absolute;
+  margin-top: 130px;
+  margin-left: 30px;
+}
+
+#f2 {
+  position: absolute;
+  margin-top: 370px;
+  margin-left: 30px;
+}
+
+#f3 {
+  position:absolute;
+  margin-top: 130px;
+  margin-left: 250px;
+}
+
+#f4 {
+  position: absolute;
+  margin-top: 370px;
+  margin-left: 250px;
+}
+
+#s1 {
+  position: absolute;
+  margin-top: 230px;
+  margin-left: 515px;
+}
+
+#fm1 {
+  position: absolute;
+  margin-top: 130px;
+  margin-left: 830px;
+}
+
+#fm2 {
+  position: absolute;
+  margin-top: 130px;
+  margin-left: 1050px;
+}
+
+#fm3 {
+  position: absolute;
+  margin-top: 370px;
+  margin-left: 830px;
+}
+
+#fm4 {
+  position: absolute;
+  margin-top: 370px;
+  margin-left: 1050px;
+}
+
 hr:not([size]) {
   height: 0.125rem;
 }
